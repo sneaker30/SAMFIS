@@ -1,0 +1,17 @@
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/Sammith_Farm_Warehouse
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.deps.json
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.runtimeconfig.json
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.runtimeconfig.dev.json
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.dll
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.pdb
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/staticwebassets/Sammith_Farm_Warehouse.StaticWebAssets.Manifest.cache
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/staticwebassets/Sammith_Farm_Warehouse.StaticWebAssets.xml
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.MvcApplicationPartsAssemblyInfo.cache
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.AssemblyInfoInputs.cache
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.AssemblyInfo.cs
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.RazorTargetAssemblyInfo.cache
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.dll
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.pdb
