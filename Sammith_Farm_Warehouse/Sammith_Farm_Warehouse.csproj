@@ -9,5 +9,10 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
+    <Folder Include="img\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MySqlConnector" Version="0.61.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.0.0" />
   </ItemGroup>
 </Project>

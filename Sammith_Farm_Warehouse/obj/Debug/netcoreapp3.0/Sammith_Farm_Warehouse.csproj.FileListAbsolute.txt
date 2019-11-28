@@ -15,3 +15,10 @@
 /Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.RazorTargetAssemblyInfo.cache
 /Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.dll
 /Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.pdb
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.csprojAssemblyReference.cache
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/MySqlConnector.dll
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/obj/Debug/netcoreapp3.0/Sammith_Farm_Warehouse.csproj.CopyComplete
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/SneAkEr30.nEt/Projects/SAMFIS/Sammith_Farm_Warehouse/bin/Debug/netcoreapp3.0/Newtonsoft.Json.Bson.dll

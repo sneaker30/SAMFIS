@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sammith_Farm_Warehouse", "Sammith_Farm_Warehouse\Sammith_Farm_Warehouse.csproj", "{0E92EF0B-6168-47C9-9C1A-731055DC98BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sammith_Farm_Warehouse", "Sammith_Farm_Warehouse\Sammith_Farm_Warehouse.csproj", "{CEE0807F-CEDD-4390-97D3-D617F13B0383}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0E92EF0B-6168-47C9-9C1A-731055DC98BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E92EF0B-6168-47C9-9C1A-731055DC98BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E92EF0B-6168-47C9-9C1A-731055DC98BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E92EF0B-6168-47C9-9C1A-731055DC98BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE0807F-CEDD-4390-97D3-D617F13B0383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE0807F-CEDD-4390-97D3-D617F13B0383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE0807F-CEDD-4390-97D3-D617F13B0383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE0807F-CEDD-4390-97D3-D617F13B0383}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
